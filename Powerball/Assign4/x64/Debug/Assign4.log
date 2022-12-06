@@ -1,0 +1,3 @@
+﻿  Assign4.cpp
+C:\Users\kikiy\Documents\CIS3100\Assign4\Assign4\Assign4.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assign4.vcxproj -> C:\Users\kikiy\Documents\CIS3100\Assign4\x64\Debug\Assign4.exe
