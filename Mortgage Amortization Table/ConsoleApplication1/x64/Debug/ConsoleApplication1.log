@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\kikiy\Documents\CIS3100\Assignment3\ConsoleApplication1\ConsoleApplication1.cpp(174,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kikiy\Documents\CIS3100\Assignment3\ConsoleApplication1\ConsoleApplication1.cpp(177,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kikiy\Documents\CIS3100\Assignment3\ConsoleApplication1\ConsoleApplication1.cpp(247,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\kikiy\Documents\CIS3100\Assignment3\x64\Debug\ConsoleApplication1.exe
