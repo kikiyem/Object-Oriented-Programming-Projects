@@ -1,0 +1,877 @@
+The file: zelensky1.txt contains 2936 Words.
+There are 874 unique terms.
+
+THE                                                         	215
+OF                                                          	109
+AND                                                         	98
+TO                                                          	89
+IS                                                          	65
+FOR                                                         	55
+A                                                           	43
+THAT                                                        	38
+WE                                                          	37
+IN                                                          	36
+THIS                                                        	36
+PEACE                                                       	31
+WILL                                                        	28
+RUSSIA                                                      	26
+OUR                                                         	24
+IT                                                          	23
+ITS                                                         	23
+BE                                                          	22
+FORMULA                                                     	21
+ALL                                                         	20
+BUT                                                         	20
+YOU                                                         	20
+SECURITY                                                    	19
+UKRAINE                                                     	19
+WAR                                                         	19
+WITH                                                        	19
+ONLY                                                        	17
+WHO                                                         	17
+WORLD                                                       	17
+AGAINST                                                     	15
+ARE                                                         	15
+NOT                                                         	15
+RUSSIAN                                                     	15
+THEY                                                        	15
+ON                                                          	14
+PUNISHMENT                                                  	14
+AGGRESSION                                                  	13
+ONE                                                         	13
+WHAT                                                        	13
+I                                                           	12
+STATE                                                       	12
+UN                                                          	12
+WAS                                                         	12
+WHICH                                                       	12
+AFTER                                                       	11
+AT                                                          	11
+IF                                                          	11
+LIFE                                                        	11
+AS                                                          	10
+BY                                                          	10
+CRIME                                                       	10
+HAS                                                         	10
+HAVE                                                        	10
+OR                                                          	10
+ABOUT                                                       	9
+ANY                                                         	9
+FROM                                                        	9
+ITEM                                                        	9
+SO                                                          	9
+THERE                                                       	9
+UKRAINIAN                                                   	9
+US                                                          	9
+WANTS                                                       	9
+DETERMINATION                                               	8
+NATIONS                                                     	8
+AGGRESSOR                                                   	7
+GUARANTEES                                                  	7
+INTEGRITY                                                   	7
+MUST                                                        	7
+NO                                                          	7
+TERRITORY                                                   	7
+THEM                                                        	7
+ALREADY                                                     	6
+CAN                                                         	6
+CHARTER                                                     	6
+ENERGY                                                      	6
+GENERAL                                                     	6
+MILITARY                                                    	6
+NATION                                                      	6
+NOW                                                         	6
+SAFETY                                                      	6
+SHOULD                                                      	6
+TALKS                                                       	6
+TERRITORIAL                                                 	6
+WEAPONS                                                     	6
+WHEN                                                        	6
+ALSO                                                        	5
+ASSEMBLY                                                    	5
+BECOME                                                      	5
+COMMITTED                                                   	5
+DO                                                          	5
+EVERY                                                       	5
+NECESSARY                                                   	5
+NUCLEAR                                                     	5
+PEOPLE                                                      	5
+PROTECT                                                     	5
+PROTECTION                                                  	5
+RIGHT                                                       	5
+SEVEN                                                       	5
+THANK                                                       	5
+TRUE                                                        	5
+UNTIL                                                       	5
+VALUE                                                       	5
+WANT                                                        	5
+WERE                                                        	5
+WHY                                                         	5
+ARMED                                                       	4
+CONDITIONS                                                  	4
+DEAR                                                        	4
+EACH                                                        	4
+EUROPE                                                      	4
+EVERYONE                                                    	4
+FIGHT                                                       	4
+GLOBAL                                                      	4
+HELP                                                        	4
+HOW                                                         	4
+INTERNATIONAL                                               	4
+JUST                                                        	4
+MASS                                                        	4
+MOST                                                        	4
+MY                                                          	4
+NEED                                                        	4
+NEW                                                         	4
+ORDER                                                       	4
+OTHER                                                       	4
+OVER                                                        	4
+PREVAIL                                                     	4
+RESTORING                                                   	4
+SUPPORT                                                     	4
+TAKE                                                        	4
+THAN                                                        	4
+THEMSELVES                                                  	4
+UNDER                                                       	4
+UNITED                                                      	4
+AGAIN                                                       	3
+AGGRESSORS                                                  	3
+AN                                                          	3
+BECAUSE                                                     	3
+BODIES                                                      	3
+BORDER                                                      	3
+BORDERS                                                     	3
+BURIAL                                                      	3
+CANNOT                                                      	3
+COUNTRIES                                                   	3
+DEFEND                                                      	3
+DIFFERENT                                                   	3
+ELEMENTS                                                    	3
+EVEN                                                        	3
+EVERYTHING                                                  	3
+FIVE                                                        	3
+FOOD                                                        	3
+GAS                                                         	3
+HUMAN                                                       	3
+INABILITY                                                   	3
+ITEMS                                                       	3
+ITLL                                                        	3
+IZIUM                                                       	3
+LAND                                                        	3
+LARGEST                                                     	3
+MAKE                                                        	3
+MEMBER                                                      	3
+MEN                                                         	3
+MOBILIZATION                                                	3
+NEGOTIATIONS                                                	3
+OCCUPIED                                                    	3
+PLACE                                                       	3
+POWER                                                       	3
+PUNISH                                                      	3
+RADIATION                                                   	3
+SEE                                                         	3
+SOMETHING                                                   	3
+STATES                                                      	3
+STEP                                                        	3
+STOP                                                        	3
+SUCH                                                        	3
+TALK                                                        	3
+THEIR                                                       	3
+THOSE                                                       	3
+TIME                                                        	3
+VALUES                                                      	3
+WEAKNESS                                                    	3
+WOMEN                                                       	3
+WORDS                                                       	3
+101                                                         	2
+ABOVE                                                       	2
+ADDRESS                                                     	2
+AFRAID                                                      	2
+AGREE                                                       	2
+AIR                                                         	2
+ALLOW                                                       	2
+ALLOWED                                                     	2
+ALWAYS                                                      	2
+AMONG                                                       	2
+ANNOUNCE                                                    	2
+APPEAL                                                      	2
+ARMY                                                        	2
+ATTACK                                                      	2
+AVAILABLE                                                   	2
+BETWEEN                                                     	2
+BLACKMAILING                                                	2
+BLOCKING                                                    	2
+BROKEN                                                      	2
+CLEAR                                                       	2
+COME                                                        	2
+COUNCIL                                                     	2
+COUNTRY                                                     	2
+DEFENSE                                                     	2
+DID                                                         	2
+DIGNITY                                                     	2
+ELSE                                                        	2
+END                                                         	2
+ENTITY                                                      	2
+EQUAL                                                       	2
+ETHIOPIA                                                    	2
+FAIR                                                        	2
+FINALLY                                                     	2
+FINANCIAL                                                   	2
+FIND                                                        	2
+FIRST                                                       	2
+FORCED                                                      	2
+FOURTH                                                      	2
+FULL                                                        	2
+GERMANY                                                     	2
+GOODS                                                       	2
+GUARANTEE                                                   	2
+HAPPENED                                                    	2
+HE                                                          	2
+HEAR                                                        	2
+HIS                                                         	2
+IM                                                          	2
+IMPLEMENT                                                   	2
+INDIA                                                       	2
+INSTEAD                                                     	2
+INTELLIGENCE                                                	2
+INTERNATIONALLY                                             	2
+INTO                                                        	2
+KOREA                                                       	2
+LAW                                                         	2
+LEAST                                                       	2
+LEGALLY                                                     	2
+LIBERATE                                                    	2
+LONG                                                        	2
+LOOK                                                        	2
+MAN                                                         	2
+MARITIME                                                    	2
+MARKET                                                      	2
+MEANS                                                       	2
+MECHANISM                                                   	2
+MISSILE                                                     	2
+MISSILES                                                    	2
+MORE                                                        	2
+MR                                                          	2
+MURDERS                                                     	2
+NEEDED                                                      	2
+NEEDS                                                       	2
+NEUTRALITY                                                  	2
+NORTH                                                       	2
+OFFENSIVE                                                   	2
+OIL                                                         	2
+OTHERS                                                      	2
+OURSELVES                                                   	2
+OUT                                                         	2
+PART                                                        	2
+PARTNERS                                                    	2
+PERSONAL                                                    	2
+PIECE                                                       	2
+PREPARE                                                     	2
+PRETEND                                                     	2
+PRICE                                                       	2
+PRICES                                                      	2
+PRINCIPLES                                                  	2
+PROPOSALS                                                   	2
+PROTECTS                                                    	2
+PROVE                                                       	2
+READY                                                       	2
+REASON                                                      	2
+RECOGNIZED                                                  	2
+REMOVE                                                      	2
+RESTORATION                                                 	2
+RESTORE                                                     	2
+RESTORED                                                    	2
+RESTRICTIONS                                                	2
+RESULT                                                      	2
+RESULTS                                                     	2
+RIGHTS                                                      	2
+RULE                                                        	2
+RUSSIAS                                                     	2
+SAY                                                         	2
+SCARED                                                      	2
+SEA                                                         	2
+SECOND                                                      	2
+SHELLS                                                      	2
+SHOULDNT                                                    	2
+SOCIAL                                                      	2
+SOMALIA                                                     	2
+SOUTH                                                       	2
+SPEAKING                                                    	2
+STARTED                                                     	2
+STATION                                                     	2
+STEAL                                                       	2
+STEPS                                                       	2
+STRONG                                                      	2
+TALKING                                                     	2
+TARGET                                                      	2
+TERRORIST                                                   	2
+THEN                                                        	2
+THEREFORE                                                   	2
+THREATS                                                     	2
+THROUGH                                                     	2
+TRIBUNAL                                                    	2
+TRIED                                                       	2
+TURBULENCE                                                  	2
+TURKEY                                                      	2
+VETO                                                        	2
+VIDEO                                                       	2
+VOTED                                                       	2
+WALLS                                                       	2
+WAY                                                         	2
+WELL                                                        	2
+WHETHER                                                     	2
+WHOLE                                                       	2
+WISH                                                        	2
+WITHIN                                                      	2
+WITHOUT                                                     	2
+WORD                                                        	2
+WORK                                                        	2
+YOUR                                                        	2
+2014                                                        
+24                                                          
+300                                                         
+445                                                         
+51                                                          
+7                                                           
+88                                                          
+ABATING                                                     
+ABLE                                                        
+ACCORDANCE                                                  
+ACHIEVE                                                     
+ACHIEVING                                                   
+ACT                                                         
+ACTIONS                                                     
+ACTIVITY                                                    
+ACTS                                                        
+ADDITIONAL                                                  
+ADULTS                                                      
+AFRICA                                                      
+AGRICULTURAL                                                
+AID                                                         
+AIRSTRIKE                                                   
+ALGERIA                                                     
+ALLIANCES                                                   
+AMERICA                                                     
+AMOUNT                                                      
+ANOTHER                                                     
+ANTONIO                                                     
+ANYONE                                                      
+APPLY                                                       
+ARCHITECTURE                                                
+ARMS                                                        
+AROUND                                                      
+ARTICLE                                                     
+ASIA                                                        
+ASK                                                         
+ASSETS                                                      
+ATTEMPT                                                     
+ATTENTION                                                   
+BACK                                                        
+BANGLADESH                                                  
+BASIC                                                       
+BASIS                                                       
+BATTLEFIELD                                                 
+BECOMING                                                    
+BEEN                                                        
+BEFORE                                                      
+BEGINNING                                                   
+BEGUN                                                       
+BEHALF                                                      
+BEING                                                       
+BELARUS                                                     
+BELGIUM                                                     
+BETTER                                                      
+BEYOND                                                      
+BILATERAL                                                   
+BINDING                                                     
+BLIND                                                       
+BODY                                                        
+BORDERLINE                                                  
+BOTH                                                        
+BRAZIL                                                      
+BRING                                                       
+BROUGHT                                                     
+BUCHA                                                       
+BUCHAS                                                      
+BUILDINGS                                                   
+BULGARIA                                                    
+BURIED                                                      
+BURNING                                                     
+BUTTON                                                      
+CALL                                                        
+CALLS                                                       
+CAP                                                         
+CARE                                                        
+CAREFULLY                                                   
+CARRY                                                       
+CASE                                                        
+CASTRATED                                                   
+CASTRATION                                                  
+CATASTROPHIC                                                
+CAUSE                                                       
+CAUSED                                                      
+CENTRAL                                                     
+CHILDREN                                                    
+CHINA                                                       
+CHOICE                                                      
+CIRCUMSTANCES                                               
+CITIZEN                                                     
+CITIZENS                                                    
+CITY                                                        
+CIVILIANS                                                   
+COALITION                                                   
+COMMITTING                                                  
+COMMON                                                      
+COMMUNITY                                                   
+COMPARE                                                     
+COMPENSATED                                                 
+COMPENSATION                                                
+COMPLY                                                      
+COMPREHENSIVE                                               
+CONCERN                                                     
+CONCRETE                                                    
+CONFESS                                                     
+CONFORM                                                     
+CONGRATULATE                                                
+CONTINUES                                                   
+CONTINUUM                                                   
+CONTROLLED                                                  
+CORRECTED                                                   
+COST                                                        
+COULD                                                       
+COUNT                                                       
+CREATE                                                      
+CREATED                                                     
+CREATES                                                     
+CRISIS                                                      
+CUBA                                                        
+CURRENTLY                                                   
+CYPRUS                                                      
+DAMAGED                                                     
+DAMAGES                                                     
+DATA                                                        
+DAY                                                         
+DECIDED                                                     
+DECISION                                                    
+DECISIONMAKING                                              
+DEFACTO                                                     
+DEFENSIVE                                                   
+DELAYED                                                     
+DELEGATION                                                  
+DEMAND                                                      
+DEMANDS                                                     
+DEPRIVE                                                     
+DESPITE                                                     
+DESTRUCTION                                                 
+DETAILS                                                     
+DIDNT                                                       
+DIED                                                        
+DIESEL                                                      
+DIFFERS                                                     
+DIFFICULT                                                   
+DIFFICULTIES                                                
+DIPLOMACY                                                   
+DISAPPEAR                                                   
+DOESNT                                                      
+DONE                                                        
+DONT                                                        
+DOUBTS                                                      
+DOWN                                                        
+DOZENS                                                      
+EASTERN                                                     
+ECONOMY                                                     
+EGYPT                                                       
+EIGHTYEAROLD                                                
+ELECTRICITY                                                 
+ENCOURAGED                                                  
+ENCOURAGES                                                  
+ENJOY                                                       
+ENOUGH                                                      
+ENTIRE                                                      
+EQUALITY                                                    
+EQUALS                                                      
+EQUIPMENT                                                   
+ERITREA                                                     
+ESTABLISH                                                   
+EVE                                                         
+EVER                                                        
+EVERYWHERE                                                  
+EVIL                                                        
+EXCEPTION                                                   
+EXCLAMATION                                                 
+EXIST                                                       
+EXPAND                                                      
+EXPELLING                                                   
+EXPLODED                                                    
+EXPLOSION                                                   
+EXPORTS                                                     
+EYE                                                         
+FACILITIES                                                  
+FACT                                                        
+FACTOR                                                      
+FAMILY                                                      
+FATHER                                                      
+FEBRUARY                                                    
+FIFTH                                                       
+FIGHTS                                                      
+FINANCE                                                     
+FIRED                                                       
+FLAG                                                        
+FOLLOWED                                                    
+FORCE                                                       
+FORCES                                                      
+FORMALLY                                                    
+FORMAT                                                      
+FORMATS                                                     
+FORTIFICATIONS                                              
+FORTUNATE                                                   
+FOUND                                                       
+FOUNDATION                                                  
+FOUR                                                        
+FRANCE                                                      
+FREED                                                       
+FRIENDS                                                     
+FULFILL                                                     
+FULFILLED                                                   
+FULLY                                                       
+FURTHER                                                     
+FUTURE                                                      
+GIRLS                                                       
+GIVEN                                                       
+GO                                                          
+GOVERNMENTS                                                 
+GRANDPARENTS                                                
+GRAVES                                                      
+GREECE                                                      
+GREETINGS                                                   
+GUARANTORS                                                  
+GUTERRES                                                    
+HAD                                                         
+HAPPEN                                                      
+HAPPY                                                       
+HEADS                                                       
+HEARD                                                       
+HELD                                                        
+HER                                                         
+HERE                                                        
+HES                                                         
+HISTORY                                                     
+HIT                                                         
+HOME                                                        
+HONEST                                                      
+HOSTILE                                                     
+HOTTER                                                      
+HOUSE                                                       
+HUMANITARIAN                                                
+HUMILIATIONS                                                
+IAEAS                                                       
+ILLEGAL                                                     
+IMBALANCE                                                   
+IMPLEMENTATION                                              
+IMPLEMENTED                                                 
+IMPORTANT                                                   
+INCREASE                                                    
+INDEPENDENCE                                                
+INDIFFERENCE                                                
+INSTITUTIONS                                                
+INTEREST                                                    
+INTERESTED                                                  
+INTERNAL                                                    
+INTERRUPT                                                   
+INVASION                                                    
+INVIOLABILITY                                               
+INVOLVEMENT                                                 
+IRAN                                                        
+IRELAND                                                     
+ISOLATED                                                    
+ISRAEL                                                      
+ITALY                                                       
+ITSELF                                                      
+IZIUMS                                                      
+JAPAN                                                       
+JOURNALISTS                                                 
+JUSTICE                                                     
+JUSTIFY                                                     
+KEEP                                                        
+KENYA                                                       
+KHARKIV                                                     
+KILLED                                                      
+KNOWING                                                     
+KNOWN                                                       
+LASTS                                                       
+LATIN                                                       
+LEARN                                                       
+LEBANON                                                     
+LEGAL                                                       
+LESS                                                        
+LET                                                         
+LEVELS                                                      
+LIBYA                                                       
+LIES                                                        
+LIKELY                                                      
+LIMITING                                                    
+LIVES                                                       
+LIVING                                                      
+LONGER                                                      
+LOSSES                                                      
+LOT                                                         
+LYING                                                       
+MAIN                                                        
+MAJORITY                                                    
+MAKES                                                       
+MANIPULATES                                                 
+MANKIND                                                     
+MANY                                                        
+MARIUPOL                                                    
+MARKETS                                                     
+MASSACRES                                                   
+MAY                                                         
+ME                                                          
+MEAN                                                        
+MEETING                                                     
+METERS                                                      
+MONEY                                                       
+MOTHER                                                      
+MUCH                                                        
+MULTILATERAL                                                
+MURDER                                                      
+NAMELY                                                      
+NETHERLANDS                                                 
+NEVER                                                       
+NICARAGUA                                                   
+NONE                                                        
+OBLIGATION                                                  
+OBLIGATIONS                                                 
+OBSESSED                                                    
+OBSTACLE                                                    
+OCCUPATION                                                  
+OCCUPIERS                                                   
+OFFER                                                       
+OFFERS                                                      
+OFFICIALS                                                   
+OLENIVKA                                                    
+ONCE                                                        
+ONES                                                        
+ONESELF                                                     
+OPPORTUNITY                                                 
+ORDINARY                                                    
+ORGANIZATION                                                
+OUTSIDE                                                     
+OWN                                                         
+PACKAGE                                                     
+PARLIAMENTS                                                 
+PARTICULAR                                                  
+PARTNER                                                     
+PARTY                                                       
+PATROL                                                      
+PAY                                                         
+PERMANENT                                                   
+PHYSICAL                                                    
+PLANET                                                      
+PLANT                                                       
+PLANTS                                                      
+PLEASE                                                      
+POLITICAL                                                   
+POLITICALLY                                                 
+POLITICS                                                    
+PORT                                                        
+POSSIBLE                                                    
+POTENTIAL                                                   
+PRECISE                                                     
+PRECONDITIONS                                               
+PREPARED                                                    
+PRESENT                                                     
+PRESENTED                                                   
+PRESENTING                                                  
+PRESIDENCY                                                  
+PRESIDENT                                                   
+PREVENT                                                     
+PREVENTIVELY                                                
+PRISONERS                                                   
+PRIVILEGE                                                   
+PROBABLY                                                    
+PROBLEMS                                                    
+PROCLAIMS                                                   
+PRODUCTS                                                    
+PROGRAM                                                     
+PROPAGANDA                                                  
+PROPAGANDISTS                                               
+PROTOCOL                                                    
+PROVED                                                      
+PROVIDE                                                     
+PROVIDED                                                    
+PROVIDES                                                    
+PROVIDING                                                   
+PROVISIONS                                                  
+PROVOKE                                                     
+PROVOKED                                                    
+PSEUDOREFERENDUMS                                           
+PUNISHES                                                    
+PUNISHMENTS                                                 
+PUSH                                                        
+PUT                                                         
+PUTS                                                        
+RANGE                                                       
+RATHER                                                      
+REACHES                                                     
+REACTORS                                                    
+REAL                                                        
+REALITY                                                     
+RECEIVE                                                     
+RECEIVED                                                    
+RECOGNIZE                                                   
+RED                                                         
+REFERENDUMS                                                 
+REFORM                                                      
+REFORMING                                                   
+REGION                                                      
+REJECT                                                      
+RELATIONS                                                   
+RELIABLE                                                    
+REMAINED                                                    
+REPRESENTATION                                              
+REPRESENTATIVES                                             
+REPRESENTED                                                 
+REPROACH                                                    
+REQUIRES                                                    
+RESOLVED                                                    
+RESOURCES                                                   
+RESPOND                                                     
+RESPONSIBILITY                                              
+RESTORES                                                    
+RETREAT                                                     
+RETURN                                                      
+RIBS                                                        
+ROCKETS                                                     
+ROMANIA                                                     
+ROPE                                                        
+ROUNDS                                                      
+RUBBLE                                                      
+RULES                                                       
+SAFEGUARDING                                                
+SANCTIONS                                                   
+SAW                                                         
+SCALE                                                       
+SCATTERED                                                   
+SECRETARY                                                   
+SEEN                                                        
+SELFDEFENSE                                                 
+SEND                                                        
+SENSITIVE                                                   
+SESSIONS                                                    
+SETTLEMENT                                                  
+SHAM                                                        
+SHOPPING                                                    
+SHOWED                                                      
+SICKNESS                                                    
+SIDE                                                        
+SIGNAL                                                      
+SIMILAR                                                     
+SIT                                                         
+SIX                                                         
+SLOW                                                        
+SOIL                                                        
+SOLDIERS                                                    
+SOME                                                        
+SOMEONE                                                     
+SOMEWHERE                                                   
+SOON                                                        
+SPAIN                                                       
+SPEAK                                                       
+SPECIAL                                                     
+SPEECH                                                      
+SPEED                                                       
+SPEND                                                       
+SPONSOR                                                     
+STABILITY                                                   
+STABILIZATION                                               
+STABLE                                                      
+STIPULATE                                                   
+STIPULATES                                                  
+STOPPING                                                    
+STOPS                                                       
+STRANGLED                                                   
+STREETS                                                     
+STRENGTHS                                                   
+STRESS                                                      
+STRIKES                                                     
+STRIVING                                                    
+STRONGER                                                    
+SUDAN                                                       
+SUFFER                                                      
+SUFFERING                                                   
+SUPPLY                                                      
+SYMPATHIZE                                                  
+SYRIA                                                       
+SYSTEMS                                                     
+TABLE                                                       
+TAKEN                                                       
+TANKS                                                       
+TERRIBLE                                                    
+TERROR                                                      
+TERRORISM                                                   
+TERRORISTS                                                  
+TERRORS                                                     
+TEXT                                                        
+THATS                                                       
+THESE                                                       
+THEYRE                                                      
+THING                                                       
+THIRD                                                       
+THOUGH                                                      
+THOUSANDS                                                   
+THREATENS                                                   
+TIMELINE                                                    
+TORCHES                                                     
+TORN                                                        
+TOUR                                                        
+TOURISM                                                     
+TOWN                                                        
+TRADE                                                       
+TREATIES                                                    
+TRIES                                                       
+TROOPS                                                      
+TRYING                                                      
+TUNISIA                                                     
+TURN                                                        
+TURNED                                                      
+TUTORIAL                                                    
+TWO                                                         
+TYPICAL                                                     
+UKRAINIANS                                                  
+UNDERMINED                                                  
+UNDERWAY                                                    
+UNITE                                                       
+UNITES                                                      
+UNITY                                                       
+UNIVERSAL                                                   
+UNSURE                                                      
+UP                                                          
+UPGRADE                                                     
+USE                                                         
+USING                                                       
+VACCINE                                                     
+VARIOUS                                                     
+VERY                                                        
+VESTED                                                      
+VICTIM                                                      
+VIOLATION                                                   
+VISA                                                        
+VOTE                                                        
+WEAPON                                                      
+WHATS                                                       
+WHEAT                                                       
+WHERE                                                       
+WHILE                                                       
+WINDOWS                                                     
+WINTER                                                      
+WOMAN                                                       
+WORLDS                                                      
+WOULD                                                       
+WOULDBE                                                     
+WOUNDS                                                      
+YEAR                                                        
+YEMEN                                                       
+YET                                                         
+ZAPORIZHZHYA                                                

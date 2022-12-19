@@ -1,0 +1,4 @@
+﻿  Assignment6.cpp
+C:\Users\kikiy\Desktop\User\Assignment6\Header.h(102,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kikiy\Desktop\User\Assignment6\Header.h(149,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Assignment6.vcxproj -> C:\Users\kikiy\Desktop\User\x64\Debug\Assignment6.exe
